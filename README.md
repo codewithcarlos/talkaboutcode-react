@@ -26,3 +26,5 @@ In order to run this app on your local machine, follow these steps:
 - Node.js/Express
 - Javascript
 - CSS/HTML - responsive to mobile
+- Netlify
+- Heroku
