@@ -1,6 +1,7 @@
 # talkaboutcode-react
 
 ### Talk About Code - A Message Forum App
+### Visit the website here: https://talkaboutcode.netlify.com/
 
 This app allows for real time postings. In each post a user ideally talks about some coding related topic. User can upload an image for the post, and then once submitted, all users on the forum will instantly be able to see the post without needing to reload the page
 
